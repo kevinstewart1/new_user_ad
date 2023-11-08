@@ -52,4 +52,4 @@ Enter a password and confirm the password into the Reset Password window. I will
   <br/>
  <br/> In Conclusion:
  <br/>
-  That's it! I have just created Alex as a user using the Active Directory tool. From there I could add Alex to a group or Organizational Unit coinciding with the department Alex belongs to or is working with inside of our organization.
+  That's it! I have just created Alex as a user using the Active Directory tool. From there I could add Alex to a "Group" coinciding with the department Alex belongs to or is currently working with inside of our organization.
