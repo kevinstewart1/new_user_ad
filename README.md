@@ -1,7 +1,7 @@
 # Creating new users in Active Directory
 
 # Description
- - In this lab I will simply demonstrate how to create a new user account using the Active Directory utility in 6 easy steps. The Active Directory Administrative Center allows you to manage your Active Directory installation, by configuring users, groups, computers, and much more.
+ - This project consist of me simply demonstrating how to create a new user account using the Active Directory utility in 6 easy steps. The Active Directory Administrative Center allows you to manage your Active Directory installation, by configuring users, groups, computers, and much more.
    
 # Enviornments & Utilities Used
  - Active Directory
